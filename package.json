@@ -1,0 +1,20 @@
+{
+  "name": "ppi-1",
+  "version": "1.0.0",
+  "description": "Atividade 1, programação para internet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Higuxhin/PPI-1.git"
+  },
+  "author": "Eduarda Higuchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Higuxhin/PPI-1/issues"
+  },
+  "homepage": "https://github.com/Higuxhin/PPI-1#readme"
+}
